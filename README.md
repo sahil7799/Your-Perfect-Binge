@@ -1,1 +1,1 @@
-# Your-Perfect-Binge
+The purpose of "Your-Perfect-Binge" is to build a content-based movie recommendation system. The goal is to help users discover new movies similar to those they already like, based on the actual content and attributes of movies rather than user ratings or viewing history.
